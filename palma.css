@@ -2,11 +2,11 @@
 body{
     background-color:black;
     color:white;
-     background-image: url("benz4.jpg");
+     /* background-image: url("benz4.jpg");
     background-repeat: no-repeat,no-repeat;
     background-position: top-right  ;
     background-attachment: relative; 
-    
+     */
 }
 /* header{
     height: 75px;
@@ -39,8 +39,8 @@ a:link{
     background-color: black;
 }
 a:hover{
-    color: white;
-    background-color: green;
+    color: lightblue;
+    background-color: black;
 }
 #r1{
     text-align: center;
@@ -57,7 +57,7 @@ footer{
     position: relative;
     width: 100%;
     height: 75px;
-    display: inline-block;
+    /* display: inline-block; */
     float:right;
     justify-content: space-around;
     text-decoration: none;
@@ -73,6 +73,7 @@ footer{
 #pricing{
     width: 100%;
     height: 200px;
+    overflow:inherit;
     
 }
 .pri{
@@ -116,6 +117,13 @@ li {
     float: right;
     color: aqua ;
     margin-bottom: 0px;
+}
+#d4{
+    width:50%;
+    height: 75px;
+    float: right;
+    color: aqua ;
+    margin-bottom: 0px;
 } 
 .main{
     text-align: left;
@@ -125,8 +133,8 @@ li {
     
 }
 .button{
-    background-color: yellow;
-    color: black;
+    background-color:black;
+    color: lightblue;
 }
 html,body {
     min-width:290px;
@@ -153,7 +161,7 @@ h2 {
 .fa {
     display: inline-block;
     font: normal normal normal 14px/1 FontAwesome;
-    font-size: inherit;
+    font-size:larger;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -173,7 +181,7 @@ i {
     justify-content: center;
     height: 120px;
     width: 30vw;
-    color: darkorange;
+    color: lightblue;
     word-spacing: 10px;
 }
 #video{
