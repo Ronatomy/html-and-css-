@@ -39,8 +39,8 @@ a:link{
     background-color: black;
 }
 a:hover{
-    color: lightblue;
-    background-color: black;
+    color:white;
+    background-color: orangered
 }
 #r1{
     text-align: center;
@@ -133,8 +133,8 @@ li {
     
 }
 .button{
-    background-color:black;
-    color: lightblue;
+    background-color:orangered;
+    color: white;
 }
 html,body {
     min-width:290px;
@@ -181,7 +181,7 @@ i {
     justify-content: center;
     height: 120px;
     width: 30vw;
-    color: lightblue;
+    color: orangered;
     word-spacing: 10px;
 }
 #video{
