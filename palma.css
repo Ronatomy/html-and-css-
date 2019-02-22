@@ -40,7 +40,7 @@ a:link{
 }
 a:hover{
     color:white;
-    background-color: orangered
+    background-color: red;
 }
 #r1{
     text-align: center;
@@ -133,7 +133,7 @@ li {
     
 }
 .button{
-    background-color:orangered;
+    background-color:red;
     color: white;
 }
 html,body {
@@ -181,7 +181,7 @@ i {
     justify-content: center;
     height: 120px;
     width: 30vw;
-    color: orangered;
+    color: red;
     word-spacing: 10px;
 }
 #video{
